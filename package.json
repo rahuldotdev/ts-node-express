@@ -21,14 +21,14 @@
   },
   "homepage": "https://github.com/c99rahul/ts-node-express#readme",
   "dependencies": {
-    "dotenv": "^16.4.7",
-    "express": "^4.22.1"
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
   },
   "devDependencies": {
-    "@types/express": "^5.0.0",
-    "@types/node": "^22.13.10",
-    "nodemon": "^3.1.9",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.5.0",
+    "nodemon": "^3.1.14",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.2"
+    "typescript": "^6.0.2"
   }
 }
